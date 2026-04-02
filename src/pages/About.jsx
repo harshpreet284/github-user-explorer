@@ -10,12 +10,7 @@ function About() {
         </p>
       </section>
       
-      <section className="mb-8">
-        <h2 className="mb-4 text-2xl font-bold text-purple-400">About Me</h2>
-        <p className="text-lg text-gray-700">
-          Hey there! I'm Noel, a passionate front-end developer. My journey involves turning ideas into interactive and visually appealing web experiences. Check out my <a href="https://noelguillen.netlify.app/" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">Portfolio</a> to witness some of my creations. Feel free to connect with me on <a href="https://www.linkedin.com/in/noel-guillen-blas-b63353257/" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">LinkedIn</a> or explore my coding adventures on <a href="https://github.com/1uckyswish" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">GitHub</a>.
-        </p>
-      </section>
+      
 
       <section>
         <h2 className="mb-4 text-2xl font-bold text-purple-400">Key Features</h2>
